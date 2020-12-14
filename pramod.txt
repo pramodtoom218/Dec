@@ -8,6 +8,4 @@ five for samson
 
 added by developer 1
 added by developer 2
-added by developer 3
-added by pramod
-added by sagar
+added by developer3 
